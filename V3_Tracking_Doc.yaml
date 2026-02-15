@@ -1,0 +1,65 @@
+0:
+  port: 13
+  name: DUT name
+  Rsense: 0.02
+  Gain: 500
+1:
+  port: 11
+  name: banana
+  Rsense: 0.02
+  Gain: 500
+2:
+  port: 9
+  name: strawberry
+  Rsense: 0.02
+  Gain: 500
+3:
+  port: 7
+  name: orange
+  Rsense: 0.02
+  Gain: 500
+4:
+  port: 5
+  name: pear
+  Rsense: 0.02
+  Gain: 500
+5:
+  port: 3
+  name: peach
+  Rsense: 0.02
+  Gain: 500
+6:
+  port: 12
+  name: kiwi
+  Rsense: 0.02
+  Gain: 500
+7:
+  port: 10
+  name: lemon
+  Rsense: 0.02
+  Gain: 500
+8:
+  port: 8
+  name: cantelope
+  Rsense: 0.02
+  Gain: 500
+9:
+  port: 6
+  name: grapefruit
+  Rsense: 0.02
+  Gain: 500
+10:
+  port: 4
+  name: coconut
+  Rsense: 0.02
+  Gain: 500
+11:
+  port: 2
+  name: blueberry
+  Rsense: 0.02
+  Gain: 500
+18:
+  port: 1
+  name: GND
+  Rsense: 1
+  Gain: 1
